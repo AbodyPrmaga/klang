@@ -1,4 +1,4 @@
-# klang
+# klang-boda
 
 مكتبة Python بسيطة للحصول على لغة الكيبورد الحالية على Windows.
 
