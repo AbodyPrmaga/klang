@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="klang",
-    version="0.1.0",
+    name="klang-bas",
+    version="0.1.2",
     description="Get current keyboard layout language (Windows only)",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
