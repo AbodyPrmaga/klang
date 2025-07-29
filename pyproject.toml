@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "klang"
-version = "0.1.0"
+name = "klang-bas"
+version = "0.1.2"
 description = "Get current keyboard layout language on Windows"
 readme = "README.md"
 requires-python = ">=3.7"
