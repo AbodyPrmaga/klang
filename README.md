@@ -1,4 +1,4 @@
-# klang-boda
+# klang-bas == 0.1.2
 
 مكتبة Python بسيطة للحصول على لغة الكيبورد الحالية على Windows.
 
@@ -6,7 +6,7 @@
 
 ```python
 #import a main func
-from lang import get_keyboard_language,get_language_name
+from src.__init__ import get_keyboard_language,get_language_name
 #get a hex code of lang keyboard
 lang_hex = get_keyboard_language()
 #convert hex code of lang keyborad to EN lang easy to read
